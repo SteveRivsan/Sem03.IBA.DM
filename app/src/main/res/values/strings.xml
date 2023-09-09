@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Sem03.IBA.DM</string>
+    <string name="btnsendvalue">SEND</string>
+    <string name="etMessage"></string>
+    <string name="btnbackvalue" >BACK</string>
+    <string name="tvResult" ></string>
+</resources>
